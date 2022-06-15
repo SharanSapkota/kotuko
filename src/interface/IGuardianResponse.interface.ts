@@ -19,12 +19,12 @@ interface IEdition {
     code: string
 }
 
-interface IResult {
+export interface IResult {
     id: string,
     type: string,
     sectionId: string,
     sectionName: string,
-    webPublicationData: string,
+    webPublicationDate: string,
     webTitle: string,
     webUrl: string,
     apiUrl: string,
