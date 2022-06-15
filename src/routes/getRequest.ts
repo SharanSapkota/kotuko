@@ -1,9 +1,8 @@
-const {Router} = require('express');
+import Router from 'express';
+const {getArticle}  = require('../controllers/article.ts');
 
-const router   = Router()
+const router   = Router();
 
-router.get('/', (req, res) => {
-    console.log('This is the test route')
-})
+router.get('/:article', getArticle);
 
-module.exports = router;
+export default router;
