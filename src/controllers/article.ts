@@ -11,6 +11,6 @@ exports.getArticle = async (req: any, res: any) => {
         res.set('content-type', 'text/xml');    
         res.status(200).send(rssData);
 } catch (e: any) {
-    res.status(422).json({e.message})}
+    res.status(422).json({ 'Error Message' : e.message});}
 }
 
