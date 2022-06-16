@@ -18,7 +18,6 @@ const generateRss = (guardianData: IGuardian) =>{
                     { managingEditor : 'sharan@gmail.com'},
                     { webMaster : 'sapkotarambbo@gmail.com'},
                     ...guardianData.results.map((result: IResult) => {
-                        console.log(result)
                         return {
                             item: [
                                 { title: result.webTitle },
