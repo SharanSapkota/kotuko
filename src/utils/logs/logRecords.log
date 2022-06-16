@@ -1,2 +1,368 @@
 [32mINFO[39m [2022-16-06, 7:24:44 AM] (12980 on botsplashadmin-Vostro-15-3510): [36mguardianRes[39m
 [32mINFO[39m [2022-16-06, 7:26:00 AM] (13421 on botsplashadmin-Vostro-15-3510): [36mguardianRes[39m
+[32mINFO[39m [2022-16-06, 7:42:51 AM] (18253 on botsplashadmin-Vostro-15-3510):
+    status: "ok"
+    userTier: "developer"
+    total: 72411
+    startIndex: 1
+    pageSize: 10
+    currentPage: 1
+    pages: 7242
+    edition: {
+      "id": "lifeandstyle",
+      "webTitle": "Life and style",
+      "webUrl": "https://www.theguardian.com/lifeandstyle",
+      "apiUrl": "https://content.guardianapis.com/lifeandstyle",
+      "code": "default"
+    }
+    section: {
+      "id": "lifeandstyle",
+      "webTitle": "Life and style",
+      "webUrl": "https://www.theguardian.com/lifeandstyle",
+      "apiUrl": "https://content.guardianapis.com/lifeandstyle",
+      "editions": [
+        {
+          "id": "lifeandstyle",
+          "webTitle": "Life and style",
+          "webUrl": "https://www.theguardian.com/lifeandstyle",
+          "apiUrl": "https://content.guardianapis.com/lifeandstyle",
+          "code": "default"
+        },
+        {
+          "id": "au/lifeandstyle",
+          "webTitle": "Life and style",
+          "webUrl": "https://www.theguardian.com/au/lifeandstyle",
+          "apiUrl": "https://content.guardianapis.com/au/lifeandstyle",
+          "code": "au"
+        },
+        {
+          "id": "uk/lifeandstyle",
+          "webTitle": "Life and style",
+          "webUrl": "https://www.theguardian.com/uk/lifeandstyle",
+          "apiUrl": "https://content.guardianapis.com/uk/lifeandstyle",
+          "code": "uk"
+        },
+        {
+          "id": "us/lifeandstyle",
+          "webTitle": "Life and style",
+          "webUrl": "https://www.theguardian.com/us/lifeandstyle",
+          "apiUrl": "https://content.guardianapis.com/us/lifeandstyle",
+          "code": "us"
+        }
+      ]
+    }
+    results: [
+      {
+        "id": "lifeandstyle/2022/jun/16/dont-want-to-get-sick-this-winter-the-pandemic-health-habits-to-keep-long-term",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-15T17:30:38Z",
+        "webTitle": "Don’t want to get sick this winter? The pandemic health habits to keep long term",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/16/dont-want-to-get-sick-this-winter-the-pandemic-health-habits-to-keep-long-term",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/16/dont-want-to-get-sick-this-winter-the-pandemic-health-habits-to-keep-long-term",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/15/10-ways-to-keep-exercising-in-a-heatwave",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-15T12:00:29Z",
+        "webTitle": "Hot baths, ice lollies, Vaseline: 10 ways to keep exercising in a heatwave",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/15/10-ways-to-keep-exercising-in-a-heatwave",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/15/10-ways-to-keep-exercising-in-a-heatwave",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/15/can-you-scare-yourself-happy-derelict-building-rollercoaster",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-15T09:00:26Z",
+        "webTitle": "‘I swear I saw faces in the darkness’: can you scare yourself happy?",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/15/can-you-scare-yourself-happy-derelict-building-rollercoaster",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/15/can-you-scare-yourself-happy-derelict-building-rollercoaster",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/15/extreme-breeding-of-cute-english-bulldogs-risks-uk-ban-say-vets",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-15T06:00:24Z",
+        "webTitle": "Extreme breeding of ‘cute’ English bulldogs risks UK ban, say vets",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/15/extreme-breeding-of-cute-english-bulldogs-risks-uk-ban-say-vets",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/15/extreme-breeding-of-cute-english-bulldogs-risks-uk-ban-say-vets",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/15/three-things-with-tony-armstrong-im-really-painting-myself-as-a-slob-here",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-14T17:30:08Z",
+        "webTitle": "Three things with Tony Armstrong: ‘I’m really painting myself as a slob here’",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/15/three-things-with-tony-armstrong-im-really-painting-myself-as-a-slob-here",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/15/three-things-with-tony-armstrong-im-really-painting-myself-as-a-slob-here",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/14/he-was-40-and-i-was-23-but-we-had-something-real-the-couples-whose-love-bridges-the-age-gap",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-14T10:01:42Z",
+        "webTitle": "‘One day suddenly we were kissing!’ The couples whose love bridges the age gap",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/14/he-was-40-and-i-was-23-but-we-had-something-real-the-couples-whose-love-bridges-the-age-gap",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/14/he-was-40-and-i-was-23-but-we-had-something-real-the-couples-whose-love-bridges-the-age-gap",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/14/dating-is-traumatic-sex-makes-me-anxious-how-can-i-find-a-partner",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-14T10:00:03Z",
+        "webTitle": "Dating is traumatic; sex makes me anxious. How can I find a partner?",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/14/dating-is-traumatic-sex-makes-me-anxious-how-can-i-find-a-partner",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/14/dating-is-traumatic-sex-makes-me-anxious-how-can-i-find-a-partner",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/14/how-do-you-get-dressed-in-the-morning-four-very-different-approaches-to-putting-on-clothes",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-13T17:30:24Z",
+        "webTitle": "How do you get dressed in the morning? Four very different approaches to putting on clothes",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/14/how-do-you-get-dressed-in-the-morning-four-very-different-approaches-to-putting-on-clothes",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/14/how-do-you-get-dressed-in-the-morning-four-very-different-approaches-to-putting-on-clothes",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/13/murderous-moggies-should-we-be-locking-up-our-cats-at-night",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-13T16:07:02Z",
+        "webTitle": " Murderous moggies: should we be locking up our cats at night?",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/13/murderous-moggies-should-we-be-locking-up-our-cats-at-night",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/13/murderous-moggies-should-we-be-locking-up-our-cats-at-night",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/13/the-football-coach-bringing-generations-together",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-13T11:00:15Z",
+        "webTitle": "The people making a difference: the football coach bringing generations together",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/13/the-football-coach-bringing-generations-together",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/13/the-football-coach-bringing-generations-together",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      }
+    ]
+[32mINFO[39m [2022-16-06, 7:43:40 AM] (18824 on botsplashadmin-Vostro-15-3510):
+    status: "ok"
+    userTier: "developer"
+    total: 72411
+    startIndex: 1
+    pageSize: 10
+    currentPage: 1
+    pages: 7242
+    edition: {
+      "id": "lifeandstyle",
+      "webTitle": "Life and style",
+      "webUrl": "https://www.theguardian.com/lifeandstyle",
+      "apiUrl": "https://content.guardianapis.com/lifeandstyle",
+      "code": "default"
+    }
+    section: {
+      "id": "lifeandstyle",
+      "webTitle": "Life and style",
+      "webUrl": "https://www.theguardian.com/lifeandstyle",
+      "apiUrl": "https://content.guardianapis.com/lifeandstyle",
+      "editions": [
+        {
+          "id": "lifeandstyle",
+          "webTitle": "Life and style",
+          "webUrl": "https://www.theguardian.com/lifeandstyle",
+          "apiUrl": "https://content.guardianapis.com/lifeandstyle",
+          "code": "default"
+        },
+        {
+          "id": "au/lifeandstyle",
+          "webTitle": "Life and style",
+          "webUrl": "https://www.theguardian.com/au/lifeandstyle",
+          "apiUrl": "https://content.guardianapis.com/au/lifeandstyle",
+          "code": "au"
+        },
+        {
+          "id": "uk/lifeandstyle",
+          "webTitle": "Life and style",
+          "webUrl": "https://www.theguardian.com/uk/lifeandstyle",
+          "apiUrl": "https://content.guardianapis.com/uk/lifeandstyle",
+          "code": "uk"
+        },
+        {
+          "id": "us/lifeandstyle",
+          "webTitle": "Life and style",
+          "webUrl": "https://www.theguardian.com/us/lifeandstyle",
+          "apiUrl": "https://content.guardianapis.com/us/lifeandstyle",
+          "code": "us"
+        }
+      ]
+    }
+    results: [
+      {
+        "id": "lifeandstyle/2022/jun/16/dont-want-to-get-sick-this-winter-the-pandemic-health-habits-to-keep-long-term",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-15T17:30:38Z",
+        "webTitle": "Don’t want to get sick this winter? The pandemic health habits to keep long term",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/16/dont-want-to-get-sick-this-winter-the-pandemic-health-habits-to-keep-long-term",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/16/dont-want-to-get-sick-this-winter-the-pandemic-health-habits-to-keep-long-term",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/15/10-ways-to-keep-exercising-in-a-heatwave",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-15T12:00:29Z",
+        "webTitle": "Hot baths, ice lollies, Vaseline: 10 ways to keep exercising in a heatwave",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/15/10-ways-to-keep-exercising-in-a-heatwave",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/15/10-ways-to-keep-exercising-in-a-heatwave",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/15/can-you-scare-yourself-happy-derelict-building-rollercoaster",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-15T09:00:26Z",
+        "webTitle": "‘I swear I saw faces in the darkness’: can you scare yourself happy?",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/15/can-you-scare-yourself-happy-derelict-building-rollercoaster",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/15/can-you-scare-yourself-happy-derelict-building-rollercoaster",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/15/extreme-breeding-of-cute-english-bulldogs-risks-uk-ban-say-vets",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-15T06:00:24Z",
+        "webTitle": "Extreme breeding of ‘cute’ English bulldogs risks UK ban, say vets",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/15/extreme-breeding-of-cute-english-bulldogs-risks-uk-ban-say-vets",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/15/extreme-breeding-of-cute-english-bulldogs-risks-uk-ban-say-vets",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/15/three-things-with-tony-armstrong-im-really-painting-myself-as-a-slob-here",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-14T17:30:08Z",
+        "webTitle": "Three things with Tony Armstrong: ‘I’m really painting myself as a slob here’",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/15/three-things-with-tony-armstrong-im-really-painting-myself-as-a-slob-here",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/15/three-things-with-tony-armstrong-im-really-painting-myself-as-a-slob-here",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/14/he-was-40-and-i-was-23-but-we-had-something-real-the-couples-whose-love-bridges-the-age-gap",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-14T10:01:42Z",
+        "webTitle": "‘One day suddenly we were kissing!’ The couples whose love bridges the age gap",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/14/he-was-40-and-i-was-23-but-we-had-something-real-the-couples-whose-love-bridges-the-age-gap",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/14/he-was-40-and-i-was-23-but-we-had-something-real-the-couples-whose-love-bridges-the-age-gap",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/14/dating-is-traumatic-sex-makes-me-anxious-how-can-i-find-a-partner",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-14T10:00:03Z",
+        "webTitle": "Dating is traumatic; sex makes me anxious. How can I find a partner?",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/14/dating-is-traumatic-sex-makes-me-anxious-how-can-i-find-a-partner",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/14/dating-is-traumatic-sex-makes-me-anxious-how-can-i-find-a-partner",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/14/how-do-you-get-dressed-in-the-morning-four-very-different-approaches-to-putting-on-clothes",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-13T17:30:24Z",
+        "webTitle": "How do you get dressed in the morning? Four very different approaches to putting on clothes",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/14/how-do-you-get-dressed-in-the-morning-four-very-different-approaches-to-putting-on-clothes",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/14/how-do-you-get-dressed-in-the-morning-four-very-different-approaches-to-putting-on-clothes",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/13/murderous-moggies-should-we-be-locking-up-our-cats-at-night",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-13T16:07:02Z",
+        "webTitle": " Murderous moggies: should we be locking up our cats at night?",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/13/murderous-moggies-should-we-be-locking-up-our-cats-at-night",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/13/murderous-moggies-should-we-be-locking-up-our-cats-at-night",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "lifeandstyle/2022/jun/13/the-football-coach-bringing-generations-together",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2022-06-13T11:00:15Z",
+        "webTitle": "The people making a difference: the football coach bringing generations together",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2022/jun/13/the-football-coach-bringing-generations-together",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2022/jun/13/the-football-coach-bringing-generations-together",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      }
+    ]
